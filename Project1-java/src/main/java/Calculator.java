@@ -84,7 +84,7 @@ public class Calculator extends AppCompatActivity {
                 datasource.addIngredient(name_aux,0,0,"",true);         //Add again, but with the value of the last parameter to true to mark it as actual ingredient
                 Toast.makeText(this, name_aux+" added to your fridge"  , Toast.LENGTH_SHORT).show();
                 break;
-                // comment
+                // comment para merge
         }
         return true;
 
